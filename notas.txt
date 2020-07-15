@@ -1,0 +1,20 @@
+Archivos de configuración
+https://geekytheory.com/3-formas-leer-archivos-configuracion-python
+https://stackoverflow.com/questions/1773793/convert-configparser-items-to-dictionary
+
+Iterar en diccionarios
+http://elclubdelautodidacta.es/wp/2012/08/python-recorriendo-un-diccionario-de-principio-a-fin/
+
+Fecha y hora
+https://www.programiz.com/python-programming/datetime/current-datetime
+
+MySql
+https://pynative.com/python-mysql-select-query-to-fetch-data/
+https://www.w3schools.com/python/python_mysql_insert.asp
+
+Flask
+https://flask.palletsprojects.com/en/1.1.x/quickstart/
+https://unipython.com/como-hacer-paso-a-paso-una-api-restful-en-flask-con-python/
+comando power shell:
+$env:FLASK_APP = "web.py"
+python -m flask run
